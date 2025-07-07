@@ -1,12 +1,32 @@
-# React + Vite
+# 🚀 Developer Portfolio – Usama Zahoor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio website built using **React** and **Vite**. It showcases my skills, projects, experience, and contact information in a clean and animated layout using modern tools and libraries.
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ React
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 🧠 Framer Motion (animations)
+- 🌐 React Router
+- 📁 GitHub Pages (for deployment)
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- `pages/` – Main sections (Home, About, Skills, Projects, Contact, Experience)
+- `components/` – Reusable components like Navbar and Footer
+- `App.js` – Routes and layout
+- `index.css` – Global styles including loader animation
+
+## 🧩 Featured Projects
+
+- **ProPath AI** – AI-powered mobile app for career and scholarship guidance
+- **Job Finder App** – Full-stack job platform for seekers and employers
+- **YouTube Clone** – Video streaming web app mimicking core YouTube functionality
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/UsamaZah00r/Portfolio.git
+   cd Portfolio
