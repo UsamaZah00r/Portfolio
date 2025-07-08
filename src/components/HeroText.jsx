@@ -4,7 +4,7 @@ import { TypeAnimation } from 'react-type-animation';
 export default function HeroText() {
   return (
     <div className="pointer-events-auto h-full flex items-center px-6">
-      <div className="max-w-2xl text-left bg-white/60 backdrop-blur-[1px] rounded-xl p-8 shadow-lg">
+      <div className="max-w-2xl text-left bg-white/60 md:backdrop-blur-[1px] backdrop-blur-[20px] rounded-xl p-8 shadow-lg">
         <p className="text-base md:text-lg text-slate-700 mb-2">Hi, my name is</p>
 
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-black mb-4">
